@@ -220,3 +220,119 @@ background-color: rgb(66, 75, 128);
 .icons{
     cursor: pointer;
 }
+
+/* @media (max-width: 768px){
+    .container1{
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    .left01{
+        padding: 10px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        font-family: "Raleway", sans-serif;
+    }
+    .flyoImg{
+        width: 80px;
+        cursor: pointer;
+        margin: 12px;
+    }
+    nav{
+        flex: 1;
+        text-align: right;
+        cursor: pointer;
+    }
+    nav, ul, li{
+        list-style: none;
+        display: inline-block;
+        margin-right: 3px;
+    }
+    nav, ul, li, a{
+        text-decoration: none;
+        color: black;
+    }
+    nav, ul, li, a:hover{
+        color: blue;
+    }
+    .left02{
+        display: grid;
+        align-items: center;
+    }
+    .text01{
+        border: 0.1px transparent;
+        justify-content: center;
+    }
+    .text001{
+        border: 0.1px transparent;
+        width: 100%;
+        font-size: 16px;
+        text-align: center;
+        font-family: "Raleway", sans-serif;
+    }
+    .imgRight1{
+        width: 55%;
+    }
+    .button01{
+        background-color: hsl(224, 93%, 58%);
+        color: white;
+        padding: 6.5px 28px;
+        border: transparent;
+        border-radius: 3px;
+        font-size: 8px;
+        width: 120px;
+        height: 32px;
+        cursor: pointer;
+        justify-content: center;
+    }
+    .button01:hover{
+    background-color: rgb(66, 75, 128);
+    }
+    .inputo1{
+        height: 28px;
+        padding-left: 8px;
+        border-radius: 3px;
+        border: 1px solid;
+        justify-content: center;
+    }
+    .button1{
+        display: grid;
+    }
+    .column5{
+        background-color: hsl(243, 87%, 12%);
+    }
+    .flyoImg2{
+        width: 120px;
+        cursor: pointer;
+        margin: 30px 0;
+    }
+    .details{
+        display:grid;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    
+    }
+    .details01{
+        display: grid;
+        border: 0.1px transparent;
+        padding-right: 190px;
+        cursor: pointer;
+        font-family: "Open Sans", sans-serif;
+        color: hsl(0, 0%, 75%);
+    }
+    .details01:hover{
+        color: rgb(163, 90, 135);
+    }
+    .detailLogo{
+        display: grid;
+    }
+    .freeSpace{
+        padding-right: 15px;
+    }
+    .list01{
+        color: white;
+    }
+    .icons{
+        cursor: pointer;
+    }
+} */
